@@ -1,0 +1,129 @@
+#colortit{
+    text-align: center; 
+    color: #B5BAB7;
+    font-family: 'Press Start 2P', cursive;
+ }
+
+.cuerpo{
+    text-align: center;
+    overflow-x: hidden;
+    font-family: 'Press Start 2P', cursive;
+}
+
+.top{
+    color: honeydew;
+    background-image: url(../images/depositphotos_54716041-stock-photo-black-brick-wall-for-background.jpg);
+    text-align: center;
+    font-family: 'Libre Caslon Display', serif;
+    -webkit-text-size-adjust: 100% ;
+
+}
+
+#baires{
+    margin-bottom: 0px;
+    font-size: 50px;
+}
+.aloja{
+
+width: 1000px;
+margin: 0 auto;
+}
+
+.pazo{
+ background: url(../images/peper2.jpg) no-repeat center center fixed; 
+ -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
+ position: sticky;
+ padding: 1px;
+}
+
+#tablita{
+background-color: rgba(255, 255, 255, 0.3);
+
+}
+
+#tabloide{
+width: 50%;
+margin: 0 auto
+
+
+}
+
+.col{
+margin: 0 auto;
+margin-top: 5%;
+max-width: 15%;
+height: 45%;
+display: inline;
+
+}
+.card {background-image: url(../images/live.jpg); }
+.card-header, .card-footer { opacity: 1}
+
+.pr1{
+height: 600px; ;
+max-height: 750px;
+
+}
+
+#fideo {
+    position: static;
+   padding: 0%;
+ 
+ 
+
+
+}
+.fideo{
+  position: static;
+  min-width: 100%;
+
+
+  
+}
+
+
+.card-text{
+    color: floralwhite;
+}
+.card-title{
+
+color: floralwhite;
+}
+.column {
+  float: none;
+    max-width: 25%;
+    display: inline-block;
+    
+  }
+  
+ 
+  .column.side {
+    width: 25%;
+    display: inline-block;
+  }
+  
+
+  .column.middle {
+    width: 50%;
+    display: inline-block;
+    background-color: "271F30"
+  }
+
+
+
+#random{
+margin: 0 auto;
+
+}
+
+.cuadroBordeado{
+
+  padding: 0%;
+}
+.negro{
+
+  background-color: black;
+}
